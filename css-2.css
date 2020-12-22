@@ -1,0 +1,56 @@
+#formSendRQ{ position: fixed;z-index: 1002;top: 20px;left: 50%;background: #fff;min-height: 155px;padding:0 0px 0px;margin-left: -270px;display: none;background: rgba(240, 240, 240, 0.5);padding: 5px; border-radius: 5px}
+
+#formSendRQ .formRq{min-height: 155px;width: 500px;background: #fff;overflow: hidden;}
+#formSendRQ .titeForm{ background: #d4000c;color: #fff;text-transform: uppercase;text-align: center;height: 39px;width: 480px;margin: 0px auto;margin-top: 10px;font: 20px/35px MyriadProSemiboldCond}
+#formSendRQ input[type=text]{border: 1px solid #bababa;height: 30px;width: 396px;background: #fff;font-family: 'Arial';font-size: 12px;color: #999999;padding-left: 10px; box-sizing: border-box}
+#formSendRQ .text{border: 1px solid #bababa;height: 30px;width: 396px;background: #fff;font-family: 'Arial';font-size: 14px;color: #999999;padding-left: 10px; box-sizing: border-box}
+#formSendRQ .tb1{padding: 0 31px}
+#formSendRQ .tb2{text-align: left}
+#formSendRQ .tb2 span{color: #ff0000}
+#formSendRQ .date{ box-sizing: border-box;width: 125px;float: left;font: 12px Arial;padding: 0 5px;border: 1px solid #bababa; height: 30px}
+
+#formSendRQ .txt2{border: 1px solid #bababa;height: 78px;width: 364px;background: #fff;resize: none;font-family: 'Arial';font-size: 14px;color: #999999;padding-left: 10px}
+#formSendRQ .btnSend{ display: block;text-align: center;height: 25px;background: #d4000c;border-bottom: 3px solid #006a97;font: 20px/28px MyriadProCondensed;text-transform: uppercase;color: #fff;width: 53px;float: right;margin-right: 60px;cursor: pointer;text-transform: uppercase;cursor: pointer}
+#formSendRQ .btnclose{ background: url(close.png-6.ashx.png)/*tpa=http://hanoisme.vn/cms/display/CommonControls/CommontSendRequest/close.png.ashx*/ no-repeat top center;width: 36px;height: 36px;position: absolute;right: -15px;top: -15px;cursor: pointer}
+#formSendRQ .row{ width: 396px;margin:0 auto}
+#formSendRQ .checkimg{height: 30px;margin-right: 10px}
+#fadePopupSR{display:none;top: 0%;left: 0%;width: 100%;height: 100%;background:#000;position:fixed;z-index:1001;-moz-opacity: 0.5;opacity:.50;filter: alpha(opacity=50)}
+
+#CreatID .reloadCaptcha{ height: 30px;float: left;display: block;cursor: pointer;background: url(reload.png)/*tpa=http://hanoisme.vn/cms/display/CommonControls/CommontSendRequest/reload.png*/ no-repeat left center;padding-left: 25px;font: 12px/34px Arial;}
+#formSendRQ #CreatID{display: none}
+#formSendRQ #Login{}
+#formSendRQ .title{ background: #d4000c;min-height:40px;}
+#formSendRQ .title .info{ height: 39px;width: 100%;background: #d4000c;font: 18px/39px Roboto-Bold;text-transform: uppercase;text-align: center;color: #fff;}
+#formSendRQ .title .info1{ font: 12px/22px robotocondensed;color: #333}
+#formSendRQ .info2{ font: 12px/22px Arial;color: #333;padding-top: 7px;border-top: 1px dashed #d0d0d0;text-align: left}
+#formSendRQ .info2 span{ color: #faa71e;text-decoration: underline;cursor:pointer;}
+
+#formSendRQ .cnt{ margin: 20px; margin-bottom: 10px}
+#formSendRQ .btn{ background: -moz-linear-gradient(center top, #d4000c, #d4000c);background: -webkit-gradient(linear, left top, left bottom, from(#d4000c), to(#d4000c));background: -o-linear-gradient(top, #d4000c, #d4000c);filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#d4000c', EndColorStr='#d4000c');border-width: 0px;border-radius: 4px 4px 4px 4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;color: #fff;cursor: pointer;display:block;width:120px;height:35px;margin-top: 3px;font: 14px/35px Arial;text-transform:uppercase;text-align: center;margin: 0 auto}
+#formSendRQ .cnt .tip{ font: 13px/20px Roboto;color: #333;text-align: center;margin-bottom: 15px;}
+#formSendRQ .btn1{cursor: pointer; background: none repeat scroll 0 0 #d4000c ;display: inline-block;
+                  font: 15px/30px robotocondensed;width: 90px;height: 30px;color: #fff;margin-left: 10px;text-transform: uppercase;text-align: center;border-radius: 3px}
+#formSendRQ .btn1:hover{background: #d4000c}
+
+#formSendRQ #forgotpass{display:none}
+.forgotpass{ font: 13px/20px Roboto;color: #666666;text-decoration: underline;margin-top: 10px;display: block }
+
+#CreatID .xacnhan a{ font: 12px Arial; color: #d4000c}
+#CreatID .lb {float:left;line-height:32px;color:#333;width:130px;text-align:left; font-weight:bold}
+#CreatID .lb span{color: red}
+
+#formSendRQ .ddl{ height: 32px;font: 13px/32px Arial;color: #333;width: 312px}
+#formSendRQ .baomat{width: 120px}
+.ml10{margin-left: 10px}
+
+#CommontSendRequest{ height: 27px;font: normal 13px/27px Roboto-Regular;position: relative;left: 0px;color: #fff;float: left;text-decoration: none;display: inline-block}
+#CommontSendRequest .listAction{ padding: 15px 20px;width: 160px;height: 113px;background: #fcfcfc;border: 1px solid #f2f2f2;box-sizing: border-box;position: absolute;top: 37px;right: 0;display: none }
+#CommontSendRequest .listAction ul{ margin: 0;padding: 0 }
+#CommontSendRequest.listAction li a{ font: 13px/30px Arial;color: #333; }
+#CommontSendRequest.listAction li a:hover{color: #00a2f1; }
+
+#CommontSendRequest .login,#CommontSendRequest .member{ font: 13px/25px Roboto;color: #fff;display: inline-block;padding: 0 10px;position: relative;background: #f11616;margin: 0 28px 0 0;height: 27px;}
+#CommontSendRequest .login:before,#CommontSendRequest .member:before{ width: 34px;height: 27px;display: block;content: "";position: absolute;left: -34px;top: 0;background: url(left.png)/*tpa=http://hanoisme.vn/cms/display/CommonControls/CommontSendRequest/left.png*/ no-repeat right center}
+#CommontSendRequest .login:after,#CommontSendRequest .member:after{ width: 29px;height: 27px;display: block;content: "";position: absolute;right: -29px;top: 0;background: url(right.png)/*tpa=http://hanoisme.vn/cms/display/CommonControls/CommontSendRequest/right.png*/ no-repeat right center}
+#CommontSendRequest a{text-decoration: none}
+#CommontSendRequest .member .thanhvien{ font: 13px/25px Roboto;color: #fff;padding-right: 17px;display: inline-block;background: url(icon-2.png)/*tpa=http://hanoisme.vn/cms/display/CommonControls/CommontSendRequest/icon.png*/ no-repeat right center}

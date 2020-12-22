@@ -1,0 +1,56 @@
+
+#MemberDuyenTinDaDang .tabHeader { border-bottom: 2px solid #d4000c;width: 100%;margin-top: 15px}
+#MemberDuyenTinDaDang .tabHeader:after { content: "";display: table;clear: both}
+#MemberDuyenTinDaDang .tabHeader .tabii {display: inline-block;padding: 0 20px;background: #999999;color: #ffffff;margin-right: 5px;-ms-border-radius: 3px 3px 0 0;border-radius: 3px 3px 0 0;float: left;height: 30px;font: 13px/30px Roboto;cursor: pointer}
+#MemberDuyenTinDaDang .tabHeader .tabii.active{ background-color: #dd1420;display: block}
+#MemberDuyenTinDaDang .tabct{ display: none;}
+#MemberDuyenTinDaDang .tabct.active{display: block}
+#MemberDuyenTinDaDang .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px;position:relative;z-index:1}
+#MemberDuyenTinDaDang .BgTabTool .right{position:absolute;z-index:2;right:5px;top:5px}
+
+#MemberDuyenTinDaDang .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#MemberDuyenTinDaDang .BgTabTitle a{font: 13px/26px RobotoBold;color: #333}
+#MemberDuyenTinDaDang .SizeImage{width:90px;border:0;padding-right:5px}
+#MemberDuyenTinDaDang .split{float:left;width:9px;text-align:center}
+#MemberDuyenTinDaDang .cot1,#MemberDuyenTinDaDang .cot2,#MemberDuyenTinDaDang .cot3,#MemberDuyenTinDaDang .cot4,#MemberDuyenTinDaDang .cot5,#MemberDuyenTinDaDang .cot6
+{ float: left}
+#MemberDuyenTinDaDang .cot1{ width: 35px;text-align: center}
+#MemberDuyenTinDaDang .cot2{width:220px;padding-left:5px}
+#MemberDuyenTinDaDang .cot3{width:120px}
+#MemberDuyenTinDaDang .cot4{width:70px}
+#MemberDuyenTinDaDang .cot5{width:70px}
+#MemberDuyenTinDaDang .tool a{padding:0 6px}
+#MemberDuyenTinDaDang .bgItem{padding:6px 0}
+#MemberDuyenTinDaDang .bgItem:after{ content: "";display: table;clear: both}
+#MemberDuyenTinDaDang .bgItem:hover{background:#edf9eb}
+#MemberDuyenTinDaDang .vien{height:1px;background:#d4d4d4}
+#MemberDuyenTinDaDang .BgButtonSearch{width:59px;height:20px;display:inline-block;background:url(SearchButton.png-1.ashx)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyenTinDaDang/SearchButton.png.ashx*/ no-repeat}
+#MemberDuyenTinDaDang .BgButtonSearch:hover{background:url(SearchButtonHover.png-1.ashx)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyenTinDaDang/SearchButtonHover.png.ashx*/ no-repeat}
+#MemberDuyenTinDaDang .TxtInBox{font:normal 11px Arial}
+#MemberDuyenTinDaDang .True,
+#MemberDuyenTinDaDang .true{display:inline-block}
+#MemberDuyenTinDaDang .False,
+#MemberDuyenTinDaDang .false{display:none}
+#MemberDuyenTinDaDang .LinkDelete{ font: 13px/31px Roboto;color: #333;padding-left: 16px;background: url(remove-1.png)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyenTinDaDang/remove.png*/ no-repeat left center}
+#MemberDuyenTinDaDang .Item{ clear: both;float: left;width: 100%;border: 1px solid #eae9e9;border-top: none;position: relative;box-sizing: border-box;background: #f7f7f7}
+#MemberDuyenTinDaDang .Item .cropImage{ width: 60px;height: 40px;float: left}
+#MemberDuyenTinDaDang .Item a{ font: 13px/20px Roboto;color: #333}
+#MemberDuyenTinDaDang .Item .titlec{ font: 13px/20px Roboto;color: #333;float: left;margin-left: 7px;width: 145px;}
+#MemberDuyenTinDaDang .Item .split{ content: "";display: block;width: 1px;height: 100%;position: absolute;top: 0;background: #eae9e9;z-index: 1;font-size: 0}
+#MemberDuyenTinDaDang .Item .split1{ left: 250px;}
+#MemberDuyenTinDaDang .Item .split2{ left: 380px;}
+#MemberDuyenTinDaDang .Item .split3{ left: 460px;}
+#MemberDuyenTinDaDang .Item .split4{ left: 500px;}
+#MemberDuyenTinDaDang .Item .EnableIcon0,#MemberDuyenTinDaDang .Item .EnableIcon1{ width: 13px;height: 13px;display: block;background: url(removehv-1.png)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyenTinDaDang/removehv.png*/ no-repeat left center }
+#MemberDuyenTinDaDang .Item .EnableIcon0{background: url(remove-1.png)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyenTinDaDang/remove.png*/ no-repeat left center }
+
+#popup_mesDel .fadePopupSR{display:none;top: 0%;left: 0%;width: 100%;height: 100%;background:#000;position:fixed;z-index:1001;-moz-opacity: 0.5;opacity:.50;filter: alpha(opacity=50)}
+#popup_mesDel .formSendRQ {position: fixed;z-index: 1002;top: 4%;left: 50%;background: #fff;min-height: 155px;padding:0 0px 0px;display: none;background: rgba(240, 240, 240, 0.5);padding: 5px;-ms-border-radius: 5px;border-radius: 5px;-webkit-transform: translate(-50%);-moz-transform: translate(-50%);-ms-transform: translate(-50%);-o-transform: translate(-50%);transform: translate(-50%)}
+#popup_mesDel .formSendRQ .btnclose{ background: url(close.png-1.ashx)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyenTinDaDang/close.png.ashx*/ no-repeat top center;width: 36px;height: 36px;position: absolute;right: -15px;top: -15px;cursor: pointer}
+#popup_mesDel .formSendRQ .formRq{min-height: 155px;width: 500px;background: #fff;overflow: hidden;}
+#popup_mesDel .formSendRQ .title .info{ height: 39px;width: 100%;background: #d4000c;font: 18px/39px Roboto-Bold;text-transform: uppercase;text-align: center;color: #fff;}
+#popup_mesDel .cnt{ padding-top: 30px;}
+#popup_mesDel a{text-decoration: none}
+#popup_mesDel .formSendRQ .row{ width: 396px;text-align: center;margin: 0 auto}
+#popup_mesDel #ThongBaopopup_mesDel .row{ font: 14px/22px Roboto;color: #333;text-align: center}
+#popup_mesDel .formSendRQ .btn{ background: -moz-linear-gradient(center top, #d4000c, #d4000c);background: -webkit-gradient(linear, left top, left bottom, from(#d4000c), to(#d4000c));background: -o-linear-gradient(top, #d4000c, #d4000c);filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#d4000c', EndColorStr='#d4000c');border-width: 0px;border-radius: 4px 4px 4px 4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;color: #fff;cursor: pointer;display:inline-block;width:120px;height:35px;margin-top: 3px;font: 14px/35px Arial;text-transform:uppercase;text-align: center;margin-right: 10px;}

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('HelveticaNeue.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue.eot*/;
+    src: local('☺'), url('HelveticaNeue.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue.woff*/ format('woff'), url('HelveticaNeue.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue.ttf*/ format('truetype'), url('HelveticaNeue.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue.svg*/ format('svg');
+}
+
+@font-face {
+    font-family: 'HelveticaNeue-Bold';
+    src: url('HelveticaNeue-Bold.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue-Bold.eot*/;
+    src: local('☺'), url('HelveticaNeue-Bold.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue-Bold.woff*/ format('woff'), url('HelveticaNeue-Bold.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue-Bold.ttf*/ format('truetype'), url('HelveticaNeue-Bold.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/HelveticaNeue-Bold.svg*/ format('svg');
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('Roboto-Bold.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.eot*/;
+    src: local('☺'), url('Roboto-Bold.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.woff*/ format('woff'), url('Roboto-Bold.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.ttf*/ format('truetype'), url('Roboto-Bold.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.svg*/ format('svg');
+}
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('Roboto-Bold.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.eot*/;
+    src: local('☺'), url('Roboto-Bold.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.woff*/ format('woff'), url('Roboto-Bold.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.ttf*/ format('truetype'), url('Roboto-Bold.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Bold.svg*/ format('svg');
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('Roboto-Regular.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.eot*/;
+    src: local('☺'), url('Roboto-Regular.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.woff*/ format('woff'), url('Roboto-Regular.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.ttf*/ format('truetype'), url('Roboto-Regular.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.svg*/ format('svg');
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.eot*/;
+    src: local('☺'), url('Roboto-Regular.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.woff*/ format('woff'), url('Roboto-Regular.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.ttf*/ format('truetype'), url('Roboto-Regular.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Regular.svg*/ format('svg');
+}
+
+@font-face {
+    font-family: 'Roboto-Condensed';
+    src: url('Roboto-Condensed.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Condensed.eot*/;
+    src: local('☺'), url('Roboto-Condensed.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Condensed.woff*/ format('woff'), url('Roboto-Condensed.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Condensed.ttf*/ format('truetype'), url('Roboto-Condensed.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/Roboto-Condensed.svg*/ format('svg');
+}
+
+@font-face {
+    font-family: 'MYRIADPRO-REGULAR';
+    src: url('MYRIADPRO-REGULAR.eot')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/MYRIADPRO-REGULAR.eot*/;
+    src: local('☺'), url('MYRIADPRO.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/MYRIADPRO.woff*/ format('woff'), url('MYRIADPRO-REGULAR.ttf')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/MYRIADPRO-REGULAR.ttf*/ format('truetype'), url('MYRIADPRO-REGULAR.svg')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/MYRIADPRO-REGULAR.svg*/ format('svg');
+}
+
+@font-face {
+    font-family: 'MyriadPro-BoldCond';
+    src: url('MYRIADPRO-BOLDCOND.woff')/*tpa=http://hanoisme.vn/cms/display/cs/fonts/MYRIADPRO-BOLDCOND.woff*/ format('woff');
+}

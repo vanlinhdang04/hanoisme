@@ -1,0 +1,21 @@
+#PhotoAlbumLoadControls { position: relative;padding: 20px 0;}
+#PhotoAlbumLoadControls:after{ content: "";display: table;clear: both}
+#PhotoAlbumLoadControls .wcommon:after{ content: "";display: table;clear: both}
+#PhotoAlbumLoadControls .item730-dch {width: 730px;height: auto;margin-right: 20px;float: left;}
+#PhotoAlbumLoadControls .right-dch {height: auto;float: right;width: 230px;}
+#PhotoAlbumDetail a{text-decoration: none}
+
+#PhotoAlbumDetail .nameg{font: 24px/36px Roboto;
+margin: 0;
+display: block;
+color: #d4000c;}
+#PhotoAlbumDetail .date{display: none}
+#PhotoAlbumDetail .descg{display: none}
+#PhotoAlbumDetail .ContentPhotoAlbumDetail{ margin-bottom: 30px;}
+#PhotoAlbumDetail .ContentPhotoAlbumDetail .item{float:left;width: 200px;height: 120px;margin-right:23px;margin-top:24px;background: #fff;padding: 1px;border:1px solid #d9d9d9}
+#PhotoAlbumDetail .ContentPhotoAlbumDetail .item3{margin-right:0px;}
+#PhotoAlbumDetail .ContentPhotoAlbumDetail a.cropImage{width: 100%;height: 100%}
+#PhotoAlbumDetail .vachdetal{background:#d5d5d5;width:680px;height:1px;margin-top:10px}
+#PhotoAlbumDetail .cropImage .nen{display:none;width:100%;height:100%;background:rgba(0,0,0,0.4);position:absolute;z-index:2;top:0;left:0}
+#PhotoAlbumDetail .cropImage .zoom{display:none;font:normal 13px/13px Arial;color:#fff;position:absolute;z-index:4;top:50%;padding-left: 25px;white-space: nowrap;left: 50%;transform: translate(-50%, -50%);background:url(more.png)/*tpa=http://hanoisme.vn/cms/display/PhotoAlbum/Controls/PhotoAlbumDetail/more.png*/ no-repeat left;}
+#PhotoAlbumDetail .cropImage:hover .nen, #PhotoAlbumDetail .cropImage:hover .zoom {display:inline-block}

@@ -1,0 +1,6 @@
+#CommontContentUpdate{ width: 100%;}
+#CommontContentUpdate a{text-decoration: none}
+#CommontContentUpdate .titleCommontContentUpdate{ font: 24px/31px Arial;color: #333333}
+#CommontContentUpdate .contentCommontContentUpdate{ font: 14px/24px Arial;color: #000000}
+#CommontContentUpdate .contentCommontContentUpdate a{  font: 14px/24px Arial;color: #a87c1b}
+#CommontContentUpdate .imageCommontContentUpdate{ background: url(content.png)/*tpa=http://hanoisme.vn/cms/display/CommonControls/CommontContentUpdate/content.png*/ no-repeat center/cover;float: right;width: 250px;height: 170px;margin-right: 20px;}

@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ho_tro .item_box {
+    margin-bottom: 10px;
+}
+
+.cot2 .text {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.ho_tro .item_group ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.ho_tro .item_group ul {
+    border: 1px solid rgba(153, 153, 153, 0.3);
+    display: inline-block;
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
+.ho_tro {
+    position: fixed;
+    z-index: 999;
+    background: #f3f3f3;
+    width: 200px;
+    padding: 10px;
+    padding-left:15px;
+
+    left: 0;
+}
+
+    .ho_tro .cot1 {
+        width: 65px;
+        height: 65px;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .ho_tro .cot2 {
+        width: 130px;
+        float: left;
+    }
+
+    .ho_tro .item_picture {
+        width: 65px;
+        height: 65px;
+        border: 2px solid #999;
+    }
+
+.item_box > ul li {
+    list-style-type: none;
+}
+
+.ho_tro .item_title {
+    font-weight: bold;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+
+.item_box > ul li.mail {
+    background: url(mail-hotro.png)/*tpa=http://hanoisme.vn/Css/Pic/mail-hotro.png*/ no-repeat left center;
+    padding-left: 25px;
+    margin-top:5px;
+}
+.ho_tro .title {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px;
+    background: #ff0000;
+    color: #fff;
+    font: 16px/40px HelveticaNeue-Bold;
+}
+.ho_tro li img{
+    padding:0 3px;
+
+}

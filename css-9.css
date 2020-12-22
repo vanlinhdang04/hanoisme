@@ -1,0 +1,39 @@
+#MemberDuyetSanPham{border:solid 1px #d4d4d4;background:#f9f9f9;}
+#MemberDuyetSanPham .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#MemberDuyetSanPham .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#MemberDuyetSanPham .BgTabTitle a{font-weight:bold;line-height:26px}
+#MemberDuyetSanPham .split{float:left;width:9px;text-align:center}
+#MemberDuyetSanPham .cot1,#MemberDuyetSanPham .cot2,#MemberDuyetSanPham .cot3,#MemberDuyetSanPham .cot4,#MemberDuyetSanPham .cot5,#MemberDuyetSanPham .cot6,#MemberDuyetSanPham .cot7{ float: left;font: 13px/26px RobotoBold;color: #333}
+
+#MemberDuyetSanPham .pdCellItem div,#MemberDuyetSanPham .pdCellItemOther div{font: 13px/20px Roboto}
+#MemberDuyetSanPham .cot1{padding-left:10px;position:relative;z-index: 1;width: 240px;}
+#MemberDuyetSanPham .cot2{width:75px;text-align: center}
+#MemberDuyetSanPham .cot3{width:85px;padding-left:5px}
+#MemberDuyetSanPham .cot4 {width:85px;text-align: center;}
+#MemberDuyetSanPham .cot4 a{font: 13px/20px Roboto;color: #999999;text-decoration: underline}
+#MemberDuyetSanPham .cot4:hover a{color: #db2321}
+#MemberDuyetSanPham input[type=text]{width:40px;text-align:center}
+
+#MemberDuyetSanPham .contentDetail{}
+#MemberDuyetSanPham .contentDetail .FormatCellItem{background-color: #f7f7f7}
+#MemberDuyetSanPham .contentDetail .FormatCellItem:hover{background-color: #ffffff}
+
+#MemberDuyetSanPham .contentDetail .FormatCellItemOther{background-color: transparent}
+#MemberDuyetSanPham .contentDetail .FormatCellItemOther:hover{background-color: #ffffff}
+#MemberDuyetSanPham .pdCellItemOther .cot1{padding-left:10px;position:relative;z-index: 1;width: 250px;}
+
+#MemberDuyetSanPham .contentDetail .pdCellItem{padding: 10px 0 10px 10px}
+#MemberDuyetSanPham .contentDetail .pdCellItem:after{ content: "";display: table;clear: both}
+#MemberDuyetSanPham .contentDetail .pdCellItemOther{padding: 10px 0}
+#MemberDuyetSanPham .contentDetail .pdCellItemOther:after{ content: "";display: table;clear: both}
+
+
+#MemberDuyetSanPham .contentDetail .splitc{float:left;width:9px;text-align:center}
+#MemberDuyetSanPham .contentDetail .SpaceRow{background-color:#D4D4D4;height:1px}
+#MemberDuyetSanPham .contentDetail .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#MemberDuyetSanPham .contentDetail .Tool{ padding-left: 10px;float: right}
+#MemberDuyetSanPham .contentDetail .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#MemberDuyetSanPham .EnableIcon0,#MemberDuyetSanPham .EnableIcon1{padding-top: 3px}
+
+#MemberDuyetSanPham .IcoArrowShow0{ background: url(ico-arrow-current.png)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyetSanPham/ico-arrow-current.png*/ center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}
+#MemberDuyetSanPham .IcoArrowShow1{ background: url(ico-arrow-show.png)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyetSanPham/ico-arrow-show.png*/ center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}

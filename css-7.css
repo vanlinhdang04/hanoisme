@@ -1,0 +1,39 @@
+#MemberDuyetTin{border:solid 1px #d4d4d4;background:#f9f9f9;}
+#MemberDuyetTin .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#MemberDuyetTin .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#MemberDuyetTin .BgTabTitle a{font-weight:bold;line-height:26px}
+#MemberDuyetTin .split{float:left;width:9px;text-align:center}
+#MemberDuyetTin .cot1,#MemberDuyetTin .cot2,#MemberDuyetTin .cot3,#MemberDuyetTin .cot4,#MemberDuyetTin .cot5,#MemberDuyetTin .cot6,#MemberDuyetTin .cot7{ float: left;font: 13px/26px RobotoBold;color: #333}
+
+#MemberDuyetTin .pdCellItem div,#MemberDuyetTin .pdCellItemOther div{font: 13px/20px Roboto}
+#MemberDuyetTin .cot1{padding-left:10px;position:relative;z-index: 1;width: 240px;}
+#MemberDuyetTin .cot2{width:75px;text-align: center}
+#MemberDuyetTin .cot3{width:85px;padding-left:5px}
+#MemberDuyetTin .cot4 {width:85px;text-align: center;}
+#MemberDuyetTin .cot4 a{font: 13px/20px Roboto;color: #999999;text-decoration: underline}
+#MemberDuyetTin .cot4:hover a{color: #db2321}
+#MemberDuyetTin input[type=text]{width:40px;text-align:center}
+
+#MemberDuyetTin .contentDetail{}
+#MemberDuyetTin .contentDetail .FormatCellItem{background-color: #f7f7f7}
+#MemberDuyetTin .contentDetail .FormatCellItem:hover{background-color: #ffffff}
+
+#MemberDuyetTin .contentDetail .FormatCellItemOther{background-color: transparent}
+#MemberDuyetTin .contentDetail .FormatCellItemOther:hover{background-color: #ffffff}
+#MemberDuyetTin .pdCellItemOther .cot1{padding-left:10px;position:relative;z-index: 1;width: 250px;}
+
+#MemberDuyetTin .contentDetail .pdCellItem{padding: 10px 0 10px 10px}
+#MemberDuyetTin .contentDetail .pdCellItem:after{ content: "";display: table;clear: both}
+#MemberDuyetTin .contentDetail .pdCellItemOther{padding: 10px 0}
+#MemberDuyetTin .contentDetail .pdCellItemOther:after{ content: "";display: table;clear: both}
+
+
+#MemberDuyetTin .contentDetail .splitc{float:left;width:9px;text-align:center}
+#MemberDuyetTin .contentDetail .SpaceRow{background-color:#D4D4D4;height:1px}
+#MemberDuyetTin .contentDetail .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#MemberDuyetTin .contentDetail .Tool{ padding-left: 10px;float: right}
+#MemberDuyetTin .contentDetail .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#MemberDuyetTin .EnableIcon0,#MemberDuyetTin .EnableIcon1{padding-top: 3px}
+
+#MemberDuyetTin .IcoArrowShow0{ background: url(ico-arrow-current-1.png)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyetTin/ico-arrow-current.png*/ center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}
+#MemberDuyetTin .IcoArrowShow1{ background: url(ico-arrow-show-1.png)/*tpa=http://hanoisme.vn/cms/display/Member/Controls/MemberDuyetTin/ico-arrow-show.png*/ center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}
